@@ -1,4 +1,4 @@
-# ENGR103VideoGame
+# Cyclone
 Cyclone video game created in ENGR 103
 ## A Short Description
   My game will be based off the cyclone game where there is a particle that travels around in a circular pattern and the player must push the button to stop it at a certain position to advance to the harder stage. If the particle is stopped at the correct position, the lights will flash green, and the level will get harder. If the particle is stopped at the incorrect position, the lights will flash red, and the level will return to 1. Before each trial, the level will be displayed on the LEDs going in a clockwise direction, starting with the LED in position 9, or level 1.
